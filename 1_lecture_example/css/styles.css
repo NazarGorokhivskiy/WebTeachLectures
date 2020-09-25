@@ -1,0 +1,10 @@
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  background: #383838;
+  color: white;
+  font-size: 20px;
+}
+
+section {
+  margin-bottom: 250px;
+}

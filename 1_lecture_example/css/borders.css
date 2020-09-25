@@ -1,0 +1,32 @@
+.box {
+  background: #0f5800;
+}
+
+.box {
+  width: 33.333%;
+  height: 120px;
+  margin-top: 40px;
+  font-size: 1.5rem;
+}
+
+.border1, .border2, .border3, .border4 {
+  margin-bottom: 40px;
+  padding: 10px;
+}
+
+.border1 {
+  border-left: 4px solid #3cc;
+}
+
+.border2 {
+  border-bottom: 3px dashed #77f;
+  border-top: 3px solid #77f;
+}
+
+.border3 {
+  border: 5px solid #7cf;
+}
+
+.border4 {
+  border: 5px dotted #faa;
+}

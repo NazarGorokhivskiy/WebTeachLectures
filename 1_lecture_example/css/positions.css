@@ -1,0 +1,25 @@
+.parent, .child1, .child2, .child3 {
+  padding: 15px;
+  font-size: 20px;
+}
+
+body {
+  height: 200vh;
+}
+
+.parent {
+  background: #673C4F;
+  height: 50
+}
+
+.child1 {
+  background: #7f557d;
+}
+
+.child2 {
+  background: #726e97;
+}
+
+.child3 {
+  background: #7698b3;
+}
